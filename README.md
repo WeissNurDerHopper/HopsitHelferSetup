@@ -1,1 +1,1 @@
-A complete setup to Install NeoHopsit, Lazy and a few other plugins.
+A complete setup to Install NeoHopsit, Lazy and a Colourscheme.
